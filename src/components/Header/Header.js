@@ -31,11 +31,20 @@ const Header = () =>  (
         </Link>
       </li>
       <li>
-        <Link href="#about">
+        <Link href="/checklistpage">
+          <NavLink>Checklist</NavLink>
+        </Link>
+      </li>
+      <li>
+        <Link href="/descriptpage">
           <NavLink>Description</NavLink>
         </Link>
       </li>
-      
+      <li>
+        <Link href="/aboutus">
+          <NavLink>About Us</NavLink>
+        </Link>
+      </li>
     </Div2>
     <Div3>
       <SocialIcons href="https://github.com">
