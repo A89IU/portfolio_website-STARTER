@@ -5,17 +5,17 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { projects } from '../../constants/constants';
 
 const projectsDemo = [{
-  title: 'Project 1',
-  description: 'This is a really really long description about this project.'
+  title: 'Projects Coming Soon!',
+  description: 'Project and description coming soon!'
 },{
-  title: 'Project 2',
-  description: 'This is a really really long description about this project.'
+  title: 'Projects Coming Soon!',
+  description: 'Project and description coming soon!'
 },{
-  title: 'Project 3',
-  description: 'This is a really really long description about this project.'
+  title: 'Projects Coming Soon!',
+  description: 'Project and description coming soon!'
 },{
-  title: 'Project 4',
-  description: 'This is a really really long description about this project.'
+  title: 'Projects Coming Soon!',
+  description: 'Project and description coming soon!'
 }];
 
 const Projects = () => (

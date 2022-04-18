@@ -11,7 +11,7 @@ const AboutUs = () => (
         Page
       </SectionTitle>
       <SectionText>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit 
+        My name is Gerardo Romero. I am a Senior at Georgia State University pursuing a Bachelor's degree in Computer Science. Some of my passions and interests include Data Science/AI, Software Development, and Music. I am an incoming SDE Summer intern at Expedia Group so be on the lookout for more updates and projects!  
       </SectionText>
 
     </LeftSection>
