@@ -12,7 +12,7 @@ const Hero = () => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        Hello, my name is Gerardo Romero. I am a Computer Science major at Georgia State University where I am currently a senior. I am also an incoming Full-Stack SDE intern at Expedia Group. Feel free to explore!
+        Hello, my name is Gerardo Romero. I am a Computer Science major at Georgia State University where I am currently a senior. I have also interned as a Full-Stack SDE at Expedia Group. Feel free to explore!
       </SectionText>
       <Button onClick={() => window.location = 'https://Duck.com'}>Learn More</Button>
     </LeftSection>
